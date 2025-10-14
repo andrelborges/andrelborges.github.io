@@ -25,7 +25,7 @@
             <article class="post">
                 <h2>Another Blog Post</h2>
                 <p class="date">October 13, 2025</p>
-                <p>This is another example post. You can edit, delete, or add more posts as you wish.</p>
+                <p>Exemplo de Post</p>
             </article>
         </section>
     </main>
