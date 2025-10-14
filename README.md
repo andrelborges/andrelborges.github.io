@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Andre Borges</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section class="posts">
+            <article class="post">
+                <h2>First Blog Post</h2>
+                <p class="date">October 14, 2025</p>
+                <p>Welcome to your new blog! This is a sample post. Add your own content here.</p>
+            </article>
+            <article class="post">
+                <h2>Another Blog Post</h2>
+                <p class="date">October 13, 2025</p>
+                <p>This is another example post. You can edit, delete, or add more posts as you wish.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Andre Borges Blog</p>
+    </footer>
+</body>
+</html>
